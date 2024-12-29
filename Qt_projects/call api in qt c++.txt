@@ -1,0 +1,8 @@
+https://www.creativepulse.gr/en/blog/2014/restful-api-requests-using-qt-cpp-for-linux-mac-osx-ms-windows
+https://stackoverflow.com/questions/51816213/restful-api-requests-using-qt
+
+https://github.com/eyllanesc/stackoverflow/tree/master/questions/51816213
+
+https://stackoverflow.com/questions/60904216/http-post-request-in-qt-using-qnetworkaccessmanager
+
+https://www.google.com/search?q=qnetworkaccessmanager+put+example&sca_esv=ede45a10bafd6a14&biw=1920&bih=955&ei=oSgAZ9uZPIqJkdUPpNfh6AM&ved=0ahUKEwib7obgovWIAxWKRKQEHaRrGD0Q4dUDCA8&uact=5&oq=qnetworkaccessmanager+put+example&gs_lp=Egxnd3Mtd2l6LXNlcnAiIXFuZXR3b3JrYWNjZXNzbWFuYWdlciBwdXQgZXhhbXBsZTIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0i3FlDNEVjWFXACeAGQAQCYAdICoAGDB6oBBTItMS4yuAEDyAEA-AEBmAICoAIOmAMAiAYBkAYIkgcBMqAHmRM&sclient=gws-wiz-serp
